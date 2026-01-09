@@ -1,0 +1,6 @@
+CI_PROJECT_URL: https://gitlab.com/wolfre/vhs-decode-auto-audio-align
+CI_PIPELINE_URL: https://gitlab.com/wolfre/vhs-decode-auto-audio-align/-/pipelines/2082990461
+CI_JOB_URL: https://gitlab.com/wolfre/vhs-decode-auto-audio-align/-/jobs/11614603802
+SEMVER: 1.0.2
+COMMIT: 1790365e9561e6ab9cc8594cc560e76dc8da79a3
+ISO_8601_DATE: 2025-10-06T09:33:04+00:00

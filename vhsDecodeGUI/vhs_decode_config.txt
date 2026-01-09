@@ -1,0 +1,2 @@
+vhsdecodeArguments="-t 4 --tf VHS --pal --recheck_phase"
+videoExportArguments="--x265_web --videotoolbox --no-progress --show-process-output"
